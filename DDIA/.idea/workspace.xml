@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2684351d-6d0b-42f3-b454-0c81c1e20c48" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/1-D Dynamic Programming/1. Easy/Climbing Stairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-D Dynamic Programming/1. Easy/Min Cost Climbing Stairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-D Dynamic Programming/2. Medium/Coin Change.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-D Dynamic Programming/2. Medium/Decode Ways.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-D Dynamic Programming/2. Medium/House Robber II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-D Dynamic Programming/2. Medium/House Robber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-D Dynamic Programming/2. Medium/Longest Increasing Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-D Dynamic Programming/2. Medium/Longest Palindromic Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-D Dynamic Programming/2. Medium/Maximum Product Subarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-D Dynamic Programming/2. Medium/Palindromic Substrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-D Dynamic Programming/2. Medium/Partition Equal Subset Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-D Dynamic Programming/2. Medium/Word Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-D Dynamic Programming/1. Medium/Best Time to Buy And Sell Stock With Cooldown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-D Dynamic Programming/1. Medium/Coin Change II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-D Dynamic Programming/1. Medium/Edit Distance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-D Dynamic Programming/1. Medium/Interleaving String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-D Dynamic Programming/1. Medium/Longest Common Subsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-D Dynamic Programming/1. Medium/Target Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-D Dynamic Programming/1. Medium/Unique Paths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-D Dynamic Programming/2. Hard/Burst Balloons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-D Dynamic Programming/2. Hard/Distinct Subsequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-D Dynamic Programming/2. Hard/Longest Increasing Path In a Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-D Dynamic Programming/2. Hard/Regular Expression Matching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced Graphs/1. Medium/Cheapest Flights Within K Stops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced Graphs/1. Medium/Min Cost to Connect All Points.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced Graphs/1. Medium/Network Delay Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced Graphs/2. Hard/Alien Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced Graphs/2. Hard/Reconstruct Itinerary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced Graphs/2. Hard/Swim In Rising Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and Hashing/Easy/Contains Duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and Hashing/Easy/Two Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and Hashing/Easy/Valid Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and Hashing/Medium/Encode and Decode Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and Hashing/Medium/Group Anagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and Hashing/Medium/Longest Consecutive Sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and Hashing/Medium/Product of Array Except Self .java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and Hashing/Medium/Top K Frequent Elements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays and Hashing/Medium/Valid Sudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/1. Medium/Combination Sum II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/1. Medium/Combination Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/1. Medium/Letter Combinations of a Phone Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/1. Medium/Palindrome Partitioning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/1. Medium/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/1. Medium/Subsets II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/1. Medium/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/1. Medium/Word Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/2. Hard/N Queens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/1. Easy /Binary Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/2. Medium/Find Minimum In Rotated Sorted Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/2. Medium/Koko Eating Bananas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/2. Medium/Search In Rotated Sorted Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/2. Medium/Search a 2D Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/2. Medium/Time Based Key Value Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Binary Search/3. Hard/Median of Two Sorted Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bit Manipulation/1. Easy/Counting Bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bit Manipulation/1. Easy/Missing Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bit Manipulation/1. Easy/Number of 1 Bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bit Manipulation/1. Easy/Reverse Bits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bit Manipulation/1. Easy/Single Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bit Manipulation/2. Medium/Reverse Integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bit Manipulation/2. Medium/Sum of Two Integers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs/1. Medium/Clone Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs/1. Medium/Course Schedule II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs/1. Medium/Course Schedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs/1. Medium/Graph Valid Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs/1. Medium/Max Area of Island.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs/1. Medium/Number of Connected Components In An Undirected Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs/1. Medium/Number of Islands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs/1. Medium/Pacific Atlantic Water Flow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs/1. Medium/Redundant Connection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs/1. Medium/Rotting Oranges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs/1. Medium/Surrounded Regions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs/1. Medium/Walls And Gates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graphs/2. Hard/Word Ladder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy/Medium/Gas Station.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy/Medium/Hand of Straights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy/Medium/Jump Game II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy/Medium/Jump Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy/Medium/Maximum Subarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy/Medium/Merge Triplets to Form Target Triplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy/Medium/Partition Labels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy/Medium/Valid Parenthesis String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heaps and Priority Queue/1. Easy/Kth Largest Element In a Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heaps and Priority Queue/1. Easy/Last Stone Weight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heaps and Priority Queue/2. Medium/Design Twitter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heaps and Priority Queue/2. Medium/K Closest Points to Origin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heaps and Priority Queue/2. Medium/Kth Largest Element In An Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heaps and Priority Queue/2. Medium/Task Scheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heaps and Priority Queue/3. Hard/Find Median From Data Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intervals/1. Easy/Meeting Rooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intervals/2. Medium/Insert Interval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intervals/2. Medium/Meeting Rooms II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intervals/2. Medium/Merge Intervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intervals/2. Medium/Non Overlapping Intervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intervals/3. Hard/Minimum Interval to Include Each Query.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/1. Easy/Linked List Cycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/1. Easy/Merge Two Sorted Lists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/1. Easy/Reverse Linked List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/2. Medium/Add Two Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/2. Medium/Copy File with Random Pointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/2. Medium/Find the Duplicate Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/2. Medium/LRU Cache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/2. Medium/Remove Nth Node From End of List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/2. Medium/Reorder List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/3. Hard/Merge K Sorted Lists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/3. Hard/Reverse Nodes in K Groups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math &amp; Geometry/1. Easy/Happy Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math &amp; Geometry/1. Easy/Plus One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math &amp; Geometry/2. Medium/Detect Squares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math &amp; Geometry/2. Medium/Multiply Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math &amp; Geometry/2. Medium/Pow(x, n).java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math &amp; Geometry/2. Medium/Rotate Image.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math &amp; Geometry/2. Medium/Set Matrix Zeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math &amp; Geometry/2. Medium/Spiral Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sliding Window/1. Easy/Best Time to Buy And Sell Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sliding Window/2. Medium/Longest Repeating Character Replacement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sliding Window/2. Medium/Longest Substring Without Repeating Characters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sliding Window/2. Medium/Permutation In String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sliding Window/3. Hard/Minimum Window Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sliding Window/3. Hard/Sliding Window Maximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/BucketSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/1. Easy/Valid Parentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/2. Medium/Car Fleet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/2. Medium/Daily Temperatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/2. Medium/Evaluate Reverse Polish Notation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/2. Medium/Generate Parentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/2. Medium/Min Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/3. Hard/Largest Rectangle In Histogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/1. Easy/Balanced Binary Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/1. Easy/Diameter of Binary Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/1. Easy/Invert Binary Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/1. Easy/Maximum Depth of Binary Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/1. Easy/Same Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/1. Easy/Subtree of Another Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/2. Medium/Binary Tree Level Order Traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/2. Medium/Binary Tree Right Side View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/2. Medium/Construct Binary Tree From Preorder And Inorder Traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/2. Medium/Count Good Nodes In Binary Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/2. Medium/Kth Smallest Element In a BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/2. Medium/Lowest Common Ancestor of a Binary Search Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/2. Medium/Validate Binary Search Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/3. Hard/Binary Tree Maximum Path Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/3. Hard/Serialize And Deserialize Binary Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tries/1. Medium/Design Add And Search Words Data Structure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tries/1. Medium/Implement Trie Prefix Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tries/2. Hard/Word Search II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two Pointers/1. Easy/Valid Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two Pointers/2. Medium/3Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two Pointers/2. Medium/Container With Most Water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two Pointers/2. Medium/Two Sum II Input Array Is Sorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Two Pointers/3. Hard/Trapping Rain Water.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloWorld.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GrailsSDKManager">
+    <option name="grailsSDKs">
+      <map>
+        <entry key="$PROJECT_DIR$/Sorting" value="$USER_HOME$/grails-2.3.11" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2o5YWneWfESIlPrMFtzOsGwZl3I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "adopt-1.8",
+    "last_opened_file_path": "/Users/rishikabera/Project/InterviewPrep/DDIA"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2-D Dynamic Programming/1. Medium" />
+      <recent name="$PROJECT_DIR$/Heaps and Priority Queue/Easy" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Grails: Sorting" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="$PROJECT_DIR$/Sorting" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2684351d-6d0b-42f3-b454-0c81c1e20c48" name="Changes" comment="" />
+      <created>1730160938002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730160938002</updated>
+      <workItem from="1730160940091" duration="10382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
